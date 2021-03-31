@@ -1,3 +1,2 @@
 System.out.println("Fuck the World");
-System.out.println("Michael Jackson sucks dicks in hell");
-234567890
+Hello my dear friend;
